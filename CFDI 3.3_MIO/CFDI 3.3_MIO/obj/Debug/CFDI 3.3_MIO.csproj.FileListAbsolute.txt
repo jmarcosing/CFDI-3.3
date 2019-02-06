@@ -1,0 +1,14 @@
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\CFDI 3.3_MIO\obj\Debug\CFDI 3.3_MIO.csprojAssemblyReference.cache
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\CFDI 3.3_MIO\obj\Debug\CFDI 3.3_MIO.csproj.CoreCompileInputs.cache
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\CFDI 3.3_MIO\bin\Debug\CFDI 3.3_MIO.exe.config
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\CFDI 3.3_MIO\bin\Debug\CFDI 3.3_MIO.exe
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\CFDI 3.3_MIO\bin\Debug\CFDI 3.3_MIO.pdb
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\CFDI 3.3_MIO\obj\Debug\CFDI 3.3_MIO.exe
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\CFDI 3.3_MIO\obj\Debug\CFDI 3.3_MIO.pdb
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\XSDToXML\bin\Debug\CFDI 3.3_MIO.exe.config
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\XSDToXML\bin\Debug\CFDI 3.3_MIO.exe
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\XSDToXML\bin\Debug\CFDI 3.3_MIO.pdb
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\XSDToXML\obj\Debug\CFDI 3.3_MIO.csprojAssemblyReference.cache
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\XSDToXML\obj\Debug\CFDI 3.3_MIO.csproj.CoreCompileInputs.cache
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\XSDToXML\obj\Debug\CFDI 3.3_MIO.exe
+C:\Users\Juan Camilo\source\repos\CFDI 3.3_MIO\XSDToXML\obj\Debug\CFDI 3.3_MIO.pdb
